@@ -1,0 +1,13 @@
+해당 강의는 노마드코더 강의.
+> https://nomadcoders.co/nextjs-fundamentals/lectures/3454
+
+
+-> 위의 강의를 다 듣고 나서 아래 유료강의 들어볼 생각임
+: https://nomadcoders.co/carrot-market / 360,000원..
+
+
+$ npx create-next-app@latest
+
+
+
+
