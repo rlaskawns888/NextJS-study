@@ -6,7 +6,20 @@
 : https://nomadcoders.co/carrot-market / 360,000원..
 
 
+---------------------------------------
+(Next.js 프로젝트 세팅)
 $ npx create-next-app@latest
+
+
+---------------------------------------
+(error) Invalid <Link> with <a> child
+$ npx @next/codemod new-link .
+
+-> Next.js 13버전이 나오면서 Link 태그는 <a>로 렌더링 되므로 <a> 사용은
+유효하지 않다고 함.
+---------------------------------------
+
+
 
 
 

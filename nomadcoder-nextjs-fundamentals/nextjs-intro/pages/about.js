@@ -1,3 +1,11 @@
+import Head from "next/head";
+import Seo from "./Seo";
+
 export default function About() {
-    return "This is About page"
+    return (
+        <>
+            <Seo title="About"/>
+            <p>About page</p>
+        </>
+    );
 }
